@@ -1,0 +1,16 @@
+[
+  {
+    "firstName": "Luã Silveira",
+    "lastName": "Lugo",
+    "adress": "Porto Alegre",
+    "emailAdress": "lua.silveira@topaziopartner.com.br",
+    "radioGender": "m",
+    "checks": [
+      "Netflix"
+    ],
+    "selectCountries": "Índia",
+    "selectYears": "2017",
+    "selectMonths": "Maio",
+    "pwd": "Aa@123"
+  }
+]
